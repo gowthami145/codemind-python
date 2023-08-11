@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+x=(a,b)
+y=(a,b)
+x=b
+y=a
+print(f"{x}",end='
+')
+print(f"{y}")
